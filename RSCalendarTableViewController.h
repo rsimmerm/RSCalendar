@@ -1,5 +1,5 @@
 //
-//  RSViewController.h
+//  RSCalendarTableViewController.h
 //  RSCalendar
 //
 //  Created by Ross Simmerman on 6/30/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RSViewController : UIViewController
+@interface RSCalendarTableViewController : UITableViewController
 
 @end
